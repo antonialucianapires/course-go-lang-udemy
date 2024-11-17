@@ -22,3 +22,4 @@ Linguagens como C++, Java, C#, JavaScript e Go são exemplos de linguagens "C-li
 3. [Constantes e variáveis](./fundamentos/aula_3/aula_3.md)
 4. [Pacote fmt](./fundamentos/aula_4/aula_4.md)
 5. [Tipos](./fundamentos/aula_5/aula_5.md)
+6. [Valores zeros](./fundamentos/aula_6/aula_6.md)

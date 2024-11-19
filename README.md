@@ -27,3 +27,4 @@ Linguagens como C++, Java, C#, JavaScript e Go são exemplos de linguagens "C-li
 8. [Funções](./fundamentos/aula_8/aula_8.md)
 9. [Operadores aritméticos e lógicos](./fundamentos/aula_9/)
 10. [Operadores de atribuição](./fundamentos/aula_10/aula_10.md)
+11. [Operadores relacionais](./fundamentos/aula_11/aula_11.md)
